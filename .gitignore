@@ -2,4 +2,8 @@
 /data/real_data/dahlin2018/*_scanpy_*
 /
 data/real_data/weinreb2020/*_meta_data_with_*
-
+/results/synthetic_data/figures/*
+/results/real_data/paul2015/figures/*
+/results/real_data/paul2015/saved_models/*
+results/real_data/weinreb2020/figures/*
+results/real_data/dahlin2018/figures/*
