@@ -1,2 +1,1 @@
-# MultistageOT: Multistage optimal transport infers
-trajectories from a snapshot of single-cell data
+# MultistageOT: Multistage optimal transport infers trajectories from a snapshot of single-cell data
