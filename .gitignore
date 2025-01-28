@@ -1,2 +1,5 @@
 *.DS_Store
-/data/real_data/
+/data/real_data/dahlin2018/*_scanpy_*
+/
+data/real_data/weinreb2020/*_meta_data_with_*
+
