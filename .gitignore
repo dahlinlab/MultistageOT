@@ -7,3 +7,4 @@ data/real_data/weinreb2020/*_meta_data_with_*
 /results/real_data/paul2015/saved_models/*
 results/real_data/weinreb2020/figures/*
 results/real_data/dahlin2018/figures/*
+/scripts/notebooks/real_data/paul2015/data/*
