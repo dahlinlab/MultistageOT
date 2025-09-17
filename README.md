@@ -12,7 +12,7 @@ This repository contains the MultistageOT package (under `packages/model/multist
    * [Operating systems](#os)
    * [Installation](#installation)
    * [Example usage](#exampleuse)
-   * [Tutorial 1: MultistageOT on synthetic data](https://github.com/dahlinlab/MultistageOT/blob/main/scripts/notebooks/synthetic_data/main.ipynb)
+   * [Tutorial 1: Overview of MultistageOT](https://github.com/dahlinlab/MultistageOT/blob/main/scripts/notebooks/synthetic_data/main.ipynb)
    * [Tutorial 2: MultistageOT applied to a single cell RNA-sequencing snapshot of hematopoiesis](https://github.com/dahlinlab/MultistageOT/blob/main/scripts/notebooks/real_data/paul2015/main.ipynb)
  * [Scripts for reproducing results](#scripts)
    * [Demo](#demo)
