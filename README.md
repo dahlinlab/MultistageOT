@@ -12,6 +12,8 @@ This repository contains the MultistageOT package (under `packages/model/multist
    * [Operating systems](#os)
    * [Installation](#installation)
    * [Example usage](#exampleuse)
+   * [Tutorial 1: MultistageOT on synthetic data](https://github.com/dahlinlab/MultistageOT/blob/main/scripts/notebooks/synthetic_data/main.ipynb)
+   * [Tutorial 2: MultistageOT applied to a single cell RNA-sequencing snapshot of hematopoiesis](https://github.com/dahlinlab/MultistageOT/blob/main/scripts/notebooks/real_data/paul2015/main.ipynb)
  * [Scripts for reproducing results](#scripts)
    * [Demo](#demo)
    * [Application on single-cell RNA-sequencing data](#scrnaseq)
@@ -36,7 +38,7 @@ pip install jupyter
 ```
 (Note: We used numpy version 1.24.3 which ensures compatibility with scanpy 1.9.3, but MultistageOT can be run on numpy versions > 2.0).
 
-### Example usage <a name="installation"></a>
+### Example usage <a name="exampleuse"></a>
 Load dependencies:
 ```
 from packages.model.multistageot import MultistageOT
