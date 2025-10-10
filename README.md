@@ -6,6 +6,8 @@ Single-cell RNA-sequencing captures a temporal slice, or a snapshot, of a cell d
 ## Contents
 This repository contains the MultistageOT package (under `packages/model/multistageot.py`) and scripts for producing results presented in our manuscript "MultistageOT: Multistage optimal transport infers trajectories from a snapshot of single-cell data" (available [here](https://arxiv.org/abs/2502.05241) as an arXiv pre-print).
 
+This Github repository is intended as a user-friendly, step-by-step documentation to demonstrate the baseline implementations of MultistageOT. For complete reproducibility and code completeness, we host additional scripts and processed data for reproducing all the results on Zenodo (Link: [DOI: 10.5281/zenodo.17233337](https://zenodo.org/records/17233338))
+
 ### Table of contents
  * [User guide](#userguide)
    * [Hardware notice](#hardware)
