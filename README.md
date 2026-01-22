@@ -1,4 +1,4 @@
-# MultistageOT: Multistage optimal transport infers trajectories from a snapshot of single-cell data
+# MultistageOT: Multistage optimal transport infers trajectories from a snapshot of single-cell data 
 
 ## Overview
 Single-cell RNA-sequencing captures a temporal slice, or a snapshot, of a cell differentiation process. A major bioinformatical challenge is the inference of differentiation trajectories from a single snapshot. We present MultistageOT: a Multistage Optimal Transport-based framework for trajectory inference in a snapshot. Application of optimal transport has proven successful for many single-cell tasks, but classical bimarginal optimal transport for trajectory inference fails to model temporal progression in a snapshot. Representing a novel generalization of optimal transport, MultistageOT addresses this major limitation by introducing a temporal dimension, allowing for high resolution modeling of intermediate differentiation stages.
