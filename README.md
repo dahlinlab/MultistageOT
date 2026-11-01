@@ -20,6 +20,7 @@ This Github repository is intended as a user-friendly, step-by-step documentatio
    * [Demo](#demo)
    * [Application on single-cell RNA-sequencing data](#scrnaseq)
  * [License](#license)
+ * [Notes](#notes)
   
 ## User guide <a name="userguide"></a>
 ### Hardware notice  <a name="hardware"></a>
@@ -133,3 +134,6 @@ Note: To run MultistageOT on the other data sets featured in the manuscript requ
 
 ## License [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) <a name="license"></a>
 This project is licensed under the BSD-3-Clause license.
+
+## Notes <a name="notes"></a>
+- There is a typo in the pseudocode presented in the paper's supporting information appendix (Algorithm 1). The typo corresponds to a sign-convention inconsistency in the dual variable $\lambda_T$. Consequently, the update rule for $u_T$ as presented in the pseudocode is actually an update of $v_T$, not $u_T$. Note that both this Github repository and the Zenodo code published with the paper correctly updates $u_T$. Thus, the typo has no effect on any results related to the paper.
